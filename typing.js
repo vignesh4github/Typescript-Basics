@@ -1,0 +1,12 @@
+var myString;
+myString = 44;
+var name;
+name = 'vickee';
+var age;
+age = 26;
+var sum;
+var a;
+var b;
+a = 56;
+b = 26;
+sum = a + b;
